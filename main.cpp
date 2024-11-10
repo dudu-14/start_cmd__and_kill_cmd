@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Start cmd please input 1 to start, but input 0 to kill cmd.\n";
     bool mode = true;
     std::cin >> mode;
 
